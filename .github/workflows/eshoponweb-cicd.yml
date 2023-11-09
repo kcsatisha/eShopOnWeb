@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-vidyasat
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: ee11f76e-e623-45da-820a-6c6916a74c4a
   WEBAPP-NAME: az400-webapp-vidyasat
 
 
